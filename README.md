@@ -1,5 +1,5 @@
 # Attention-Based-BiLSTM-senetence-Classification
--Attention-Based Bidirectional GRU Networks for Relation Classification
+###### Attention-Based Bidirectional GRU Networks for Relation Classification
 -Industry chain Data
 ---
 https://github.com/SUMORAN/Attention-Based-BiLSTM-sentence-classify
